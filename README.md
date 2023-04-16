@@ -23,12 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot (20)](https://user-images.githubusercontent.com/54478287/232332717-dbf30687-320d-4a19-92bc-5cadae6379ca.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/54478287/232332724-2fa54d5d-5481-41ce-b91a-bf7d246139c2.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/54478287/232332727-c0feba87-c08f-4844-a94d-31a01ced6651.png)
+
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Link](https://www.frontendmentor.io/solutions/results-summary-component-_WWvy0XS3i)
+-   Live Site URL: [Link](https://itsarshadahmad.github.io/results-summary-component/)
 
 ## My process
 
